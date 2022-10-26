@@ -72,10 +72,6 @@ Run `npm install & npm run start`
 ## Usage
 1. Open the app at [http://localhost:3000](http://localhost:3000)
 2. Connect yout Metamask - Goerli testnet
-3. Fill the "mood" value
-4. Tap the "Set Mood" button
-5. Sign the transaction on Metamask and wait for it to complete
-6. Tap "Get Mood" button
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
